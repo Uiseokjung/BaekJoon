@@ -1,6 +1,6 @@
 import java.util.*;
 import java.io.*;
-public class b10819 {
+public class b10819{
     public static int n;
     public static int[] arr;
     public static int[] ans;
