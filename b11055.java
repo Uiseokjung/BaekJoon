@@ -1,7 +1,7 @@
 import java.util.*;
 import java.math.*;
 public class b11055 {
-	
+	//Nope
 	static int dp[],cost[] ;
 	
 	public static void main(String[] args)   {
