@@ -1,7 +1,7 @@
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.util.*;
-
+//Nope
 public class b1448{
     private static final BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
     
