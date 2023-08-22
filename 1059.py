@@ -1,4 +1,5 @@
 import sys
+//Nope
 L = int(sys.stdin.readline())
 nums = list(map(int, sys.stdin.readline().split()))
 n = int(sys.stdin.readline())
