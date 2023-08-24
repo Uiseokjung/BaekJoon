@@ -1,3 +1,4 @@
+//Nope
 def catch_shark():
     global catch_cnt
     for row in range(R):
